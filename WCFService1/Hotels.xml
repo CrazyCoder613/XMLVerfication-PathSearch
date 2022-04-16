@@ -1,0 +1,121 @@
+﻿<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="Hotels.xsl"?>
+<Hotels>
+  <Hotel stars="****">
+    <Name>Marriott Phoenix Resort Tempe at The Buttes &amp; Suites</Name>
+    <Contact>
+      <Phone>(602) 225-9000</Phone>
+      <Email>sales@buttesmarriott.com</Email>
+    </Contact>
+    <Address BusLines="41, 254">
+      <Number>1575</Number>
+      <Street>2000 W Westcourt Way</Street>
+      <City>Phoenix, AZ</City>
+      <Zip>95122</Zip>
+    </Address>
+  </Hotel>
+  <Hotel stars="***">
+    <Name>Fort Lauderdale Grand Hotel</Name>
+    <Contact>
+      <Phone>(954) 776-4880</Phone>
+      <Email>info@fllhotels.com</Email>
+    </Contact>
+    <Address>
+      <Number>424</Number>
+      <Street>4900 Powerline Road Fort Lauderdale</Street>
+      <City>FL</City>
+      <Zip>92264</Zip>
+    </Address>
+  </Hotel>
+  <Hotel stars="***">
+    <Name>California Suites Hotel</Name>
+    <Contact>
+      <Phone>(858) 560-0545</Phone>
+      <Email>suites@hotel.org</Email>
+    </Contact>
+    <Address BusLines="111, 25">
+      <Number>5415</Number>
+      <Street>Clairemont Mesa Blvd</Street>
+      <City>San Diego, CA</City>
+      <Zip>92117</Zip>
+    </Address>
+  </Hotel>
+  <Hotel stars="*****">
+    <Name>The Canyon Suites at The Phoenician, a Luxury Collection Resort, Scottsdale</Name>
+    <Contact>
+      <Phone>(480) 941-8200</Phone>
+      <Email>PHXLCCanyonAmbassadors@marriott.com</Email>
+    </Contact>
+    <Address BusLines="52">
+      <Number>3318</Number>
+      <Street>6000 E Camelback Rd, Scottsdale</Street>
+      <City>AZ</City>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+  <Hotel stars="****">
+    <Name>Disney's Grand Californian Hotel and Spa</Name>
+    <Contact>
+      <Phone>(714) 635-2300</Phone>
+      <Email>disney@hotel.com</Email>
+    </Contact>
+    <Address>
+      <Number>1600</Number>
+      <Street>Disneyland Dr, Anaheim</Street>
+      <City>CA</City>
+      <Zip>92803</Zip>
+    </Address>
+  </Hotel>
+  <Hotel stars="**">
+    <Name>Knights Inn Mesa</Name>
+    <Contact>
+      <Phone>(480) 610-1200</Phone>
+      <Email>KnightsInnMesa@hotel.com</Email>
+    </Contact>
+    <Address BusLines="4, 24">
+      <Number>5475</Number>
+      <Street>630 W Main St, Mesa</Street>
+      <City>AZ</City>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+  <Hotel stars="****">
+    <Name>Legoland California Resort</Name>
+    <Contact>
+      <Phone>(760) 918-5346</Phone>
+      <Email>legoland@resort.org</Email>
+    </Contact>
+    <Address>
+      <Number>1</Number>
+      <Street>Legoland Dr, Carlsbad</Street>
+      <City>CA</City>
+      <Zip>92008</Zip>
+    </Address>
+  </Hotel>
+  <Hotel stars="****">
+    <Name>Arizona Grand Resort  Spa</Name>
+    <Contact>
+      <Phone>(877) 800-4888</Phone>
+      <Email>arizona@gorentals.com</Email>
+    </Contact>
+    <Address BusLines="1, 54">
+      <Number>2705</Number>
+      <Street>8000 Arizona Grand Pkwy</Street>
+      <City>AZ</City>
+      <Zip>85044</Zip>
+    </Address>
+  </Hotel>
+  <Hotel stars="*">
+    <Name>American Executive Inn Mesa</Name>
+    <Contact>
+      <Phone>(480) 964-6476</Phone>
+      <Email>americanexectinn@gmail.com</Email>
+    </Contact>
+    <Address>
+      <Number>1510</Number>
+      <Street>1554 W Main St, Mesa</Street>
+      <City>AZ</City>
+      <Zip>85201</Zip>
+    </Address>
+  </Hotel>
+</Hotels>
